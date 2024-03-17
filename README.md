@@ -1,3 +1,8 @@
+## Demo Login and Password
+
+### Login: demo@minimals.cc
+### Pssword: demo1234
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## 1.install
