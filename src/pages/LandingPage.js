@@ -37,7 +37,7 @@ export default function LandingPage() {
       <ContentStyle>
         <LandingMinimal />
         <LandingHugePackElements />
-        <LandingDarkMode />
+        {/* <LandingDarkMode /> */}
         <LandingAdvertisement />
       </ContentStyle>
     </RootStyle>

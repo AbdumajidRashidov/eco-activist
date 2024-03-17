@@ -16,21 +16,21 @@ import { varFadeInUp, MotionInView, varFadeInDown } from "../../animate";
 const CARDS = [
   {
     icon: "/static/icons/ic_design.svg",
-    title: "Impact of environment",
+    title: "Diverse Range of Sustainable Actions",
     description:
-      "The set is built on the principles of the atomic design system. It helps you to create projects fastest and easily customized packages for your projects.",
+      "EcoActivist offers a wide array of eco-friendly actions for participants to engage in, such as walking, cycling, recycling, cleaning up litter, planting trees, and using renewable energy.",
   },
   {
     icon: "/static/icons/ic_code.svg",
-    title: "Development",
+    title: "Proof of Participation Verification",
     description:
-      "Easy to customize and extend each component, saving you time and money.",
+      "To ensure authenticity and prevent greenwashing, EcoActivist implements robust verification processes for participants' eco-friendly contributions.",
   },
   {
     icon: "/static/brand/logo_single.svg",
-    title: "Branding",
+    title: "Smart Contract Integration",
     description:
-      "Consistent design in colors, fonts ... makes brand recognition easy.",
+      "Leveraging VeChainThor's smart contract capabilities, EcoRewards automates the verification and reward distribution process, ensuring transparency, security, and efficiency.",
   },
 ];
 
